@@ -1,0 +1,21 @@
+
+/* Change the cards back ground when hovering*/
+.backgroudonhover:hover{
+ background-color: rgb(239, 241, 239);
+ 
+
+}
+
+.icons{
+  margin-left: 5%; 
+  color:darkorange;
+  margin-right: 5%!important;
+}
+
+.proj{
+  width: 45%!important;
+  margin-left:12%;
+  
+}
+
+
